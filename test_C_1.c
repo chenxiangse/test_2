@@ -1,6 +1,6 @@
 #include<studio>
 
 void main(){
-  print("hello word!")
+  printf("hello word!")
 
 }
